@@ -65,3 +65,5 @@ static void c_onClient(Web sender, System.Net.Http.HttpResponseMessage Context, 
  - Connection with set query(http://localhost:5000/?Groophy=Lifefor)
  
 ![true](https://user-images.githubusercontent.com/77299279/147703926-503a0675-b170-470e-b786-5cee89904d97.PNG)
+
+~Groophy Lifefor
