@@ -2,7 +2,7 @@
 
 
 ---------------------------------
-  ***development phase suspended*** ||| ***development phase suspended*** ||| ***development phase suspended*** ||| ***development phase suspended*** 
+  ***development phase suspended***
 
 ---------------------------------
 
